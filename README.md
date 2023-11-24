@@ -1,2 +1,2 @@
-# tabela-exemplos
-Exercicios sobre tabelas em HTML
+# tabelas
+Exemplos de tabelas
